@@ -15,3 +15,4 @@ Main colors:
 - White
 - Dark blue
 - Light blue
+- Yellow
