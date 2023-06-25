@@ -1,0 +1,28 @@
+{
+  "name": "powdery-shadows",
+  "displayName": "Powdery Shadows",
+  "description": "Customize VS Code like a shadow",
+  "icon": "assets/logo.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/HojdaAdelin/powdery-shadows.git"
+  },
+
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Powdery Shadows",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Powdery Shadows-color-theme.json"
+      }
+    ]
+  }
+}
