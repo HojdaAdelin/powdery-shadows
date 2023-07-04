@@ -1,5 +1,14 @@
 # Change Log
 
+[ v0.0.5 ]
+
+Added:
+
+- New namespace color
+- New variables color
+- New tab hover color
+- New list hover color
+
 [ v0.0.4 ]
 
 Added:

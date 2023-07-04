@@ -18,7 +18,7 @@
         "progressBar.background":"#1a5bc4",
         "list.dropBackground": "#384c6e",
         "list.activeSelectionBackground": "#384152",
-        "list.hoverBackground": "#475d80",
+        "list.hoverBackground": "#385471",
         "list.inactiveSelectionBackground":"#2c394d",
         "activityBar.background": "#2c394d",
         "activityBar.border": "#1a5bc4",
@@ -37,7 +37,7 @@
         "tab.inactiveBackground": "#292f3c",
         "tab.border": "#1a5bc4",
         "tab.lastPinnedBorder": "#1a5bc4",
-        "tab.hoverBackground": "#475d80",
+        "tab.hoverBackground": "#385471",
         "textCodeBlock.background": "#1a5bc4",
         "input.background": "#313844",
         "editor.background": "#1c2431",
@@ -79,9 +79,12 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ffe100"
+				"foreground": "#00fff783"
 			}
 		},
+
+		
+
 		{
 			"name": "Colors",
 			"scope": [
@@ -175,6 +178,7 @@
 				"foreground": "#f07178"
 			}
 		},
+
 		{
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
@@ -219,7 +223,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#6bb8ff"
 			}
 		},
 		{
